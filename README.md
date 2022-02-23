@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrTuyennn
-- 👀 21.
-- 🌱 dev Mobile
+- 👀 22.
+- 🌱 dev Mobile (React native & Swift)
 
 
