@@ -3,7 +3,7 @@
 <div style={{
      background:'red'
      }}>
-<a>
+<a style={{color:'red'}}>
 hello  
 <a/>
 </div>
