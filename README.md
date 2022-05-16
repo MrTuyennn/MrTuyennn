@@ -7,7 +7,6 @@ I'm a React Native developer from Vietnam, based in Ho Chi Minh city.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/phampham2000js/)
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howljs&layout=compact&theme=dracula)](https://github.com/howljs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howljs&layout=compact&theme=dracula)](https://github.com/MrTuyennn)
 
-<!-- ![](https://komarev.com/ghpvc/?username=haujs&color=blueviolet)
- -->
+
