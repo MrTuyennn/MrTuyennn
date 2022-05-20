@@ -5,11 +5,11 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 
 - 🔭 I’m currently working at <a href="https://g-group.vn">G-Group Technology Corporation</a> (<a href="https://www.hanet.com">HANET Ai Camera</a>)
 - I had worked at PKH company for 2 years until last month <a href="https://medpro.vn">MedPro - Đặt lịch khám</a>
-- 💬 Ask me about anything related to React Native application
+- 💬 Ask me about anything related to Mobile application
 - 📫 How to reach me: [Facebook](https://www.facebook.com/phampham2000js/)
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTuyennn&show_icons=true&theme=radical)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTuyennn&layout=compact&theme=dracula)](https://github.com/MrTuyennn). 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTuyennn&show_icons=true&theme=radical)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTuyennn&layout=compact&theme=radical)](https://github.com/MrTuyennn). 
 
 
 
