@@ -14,4 +14,32 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 
 
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+## 💼 Skills
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=3178c6)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3178c6)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=3178c6)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=3178c6)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
+
+![](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=645CAA)
+![](https://img.shields.io/badge/Tool-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=645CAA)
+![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&logoColor=white&color=645CAA)
+![](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&logoColor=white&color=645CAA)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=645CAA)
+
+## 📈 Github Stats
+<a href="https://github.com/MrTuyennn">
+  <img align="center" style="margin:0.4rem" src="https://github-readme-stats.vercel.app/api?username=MrTuyennn&show_icons=true&theme=dracula" alt="Howljs's GitHub Stats" />
+</a>
+
+## 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+
+```txt
+Dart              77 hrs 13 mins  ███████████████████████▒░   93.18 %
+YAML              1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+JavaScript        45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TypeScript        44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Bash              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+```
