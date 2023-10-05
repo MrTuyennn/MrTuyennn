@@ -9,7 +9,8 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/phampham2000js/)
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTuyennn&show_icons=true&theme=radical)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTuyennn&layout=compact&theme=radical)](https://github.com/MrTuyennn). 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTuyennn&show_icons=true&theme=radical)       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTuyennn&layout=compact&theme=radical)](https://github.com/MrTuyennn). 
 
 
 
@@ -29,11 +30,6 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 ![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&logoColor=white&color=645CAA)
 ![](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&logoColor=white&color=645CAA)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=645CAA)
-
-## 📈 Github Stats
-<a href="https://github.com/MrTuyennn">
-  <img align="center" style="margin:0.4rem" src="https://github-readme-stats.vercel.app/api?username=MrTuyennn&show_icons=true&theme=dracula" alt="Howljs's GitHub Stats" />
-</a>
 
 ## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
