@@ -18,12 +18,13 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=3178c6)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=3178c6)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=flutter&logoColor=white&color=3178c6)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=flutter&logoColor=white&color=3178c6)
 
 ![](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=645CAA)
 ![](https://img.shields.io/badge/Tool-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=645CAA)
