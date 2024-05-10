@@ -23,6 +23,7 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=3178c6)
+![](https://img.shields.io/badge/Code-Bloc-informational?style=flat&logo=bloc&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=3178c6)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=3178c6)
 
