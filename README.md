@@ -2,8 +2,8 @@
   ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Nguyễn Ngọc Tuyên.
 
 I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
-
-- 🔭 I’m currently working at <a href="https://g-group.vn">G-Group Technology Corporation</a> (<a href="https://www.hanet.com">HANET Ai Camera</a>)
+- 🔭 I’m currently working at Cloudlab Vina
+- I had worked at PKH company for 1 years <a href="https://g-group.vn">G-Group Technology Corporation</a> (<a href="https://www.hanet.com">HANET Ai Camera</a>)
 - I had worked at PKH company for 2 years  <a href="https://medpro.vn">MedPro - Đặt lịch khám</a>
 - 💬 Ask me about anything related to Mobile application
 - 📫 How to reach me: [Facebook](https://www.facebook.com/phampham2000js/)
