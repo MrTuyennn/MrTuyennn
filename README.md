@@ -6,7 +6,7 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 - I had worked at HANET company for 1 years <a href="https://g-group.vn">G-Group Technology Corporation</a> (<a href="https://www.hanet.com">HANET Ai Camera</a>)
 - I had worked at PKH company for 2 years  <a href="https://medpro.vn">MedPro - Đặt lịch khám</a>
 - 💬 Ask me about anything related to Mobile application
-- 📫 How to reach me: [Facebook]([https://www.facebook.com/junCo0k/])
+- 📫 How to reach me: [Facebook](https://www.facebook.com/junCo0k/)
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTuyennn&show_icons=true&theme=radical)       
