@@ -7,16 +7,8 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 - I had worked at PKH company for 2 years  <a href="https://medpro.vn">MedPro - Đặt lịch khám</a>
 - 💬 Ask me about anything related to Mobile application
 - 📫 How to reach me: [Facebook](https://www.facebook.com/junCo0k/)
-- My packages : [packages]([device_info_app: ^1.0.1](https://pub.dev/packages/device_info_app))
+- My packages : [packages]([device_info_app](https://pub.dev/packages/device_info_app))
                            ([camera_connect](https://pub.dev/packages/camera_connect))
-
-## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrTuyennn&show_icons=true&theme=radical)       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTuyennn&layout=compact&theme=radical)](https://github.com/MrTuyennn). 
-
-
-
-
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=3178c6)
@@ -34,14 +26,3 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 ![](https://img.shields.io/badge/Tool-Jira-informational?style=flat&logo=jira&logoColor=white&color=645CAA)
 ![](https://img.shields.io/badge/Tool-Github-informational?style=flat&logo=github&logoColor=white&color=645CAA)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=645CAA)
-
-## 📊 Weekly development breakdown
-<!--START_SECTION:waka-->
-
-```txt
-Dart              77 hrs 13 mins  ███████████████████████▒░   93.18 %
-YAML              1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-JavaScript        45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-TypeScript        44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Bash              34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-```
