@@ -2,7 +2,8 @@
   ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Nguyễn Ngọc Tuyên (juncook).
 
 I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
-- 🔭 I’m currently working at Cloudlab Vina
+- I had worked at VUS - The English Center for 2 month <a href="https://ngoaingu.vus.edu.vn">VUS</a> 
+- I had worked at Cloudlab Vina for 2+ years <a href="https://letsgostage.com/en">Stage - Kpop</a> 
 - I had worked at HANET company for 1 years <a href="https://g-group.vn">G-Group Technology Corporation</a> (<a href="https://www.hanet.com">HANET Ai Camera</a>)
 - I had worked at PKH company for 2 years  <a href="https://medpro.vn">MedPro - Đặt lịch khám</a>
 - 💬 Ask me about anything related to Mobile application
