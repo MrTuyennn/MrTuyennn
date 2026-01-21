@@ -8,8 +8,9 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 - I had worked at PKH company for 2 years  <a href="https://medpro.vn">MedPro - Đặt lịch khám</a>
 - 💬 Ask me about anything related to Mobile application
 - 📫 How to reach me: [Facebook](https://www.facebook.com/junCo0k/)
-- My packages : - [device_info_app](https://pub.dev/packages/device_info_app)
-                - [camera_connect](https://pub.dev/packages/camera_connect)
+- My packages :
+  - [device_info_app](https://pub.dev/packages/device_info_app)
+  - [camera_connect](https://pub.dev/packages/camera_connect)
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=3178c6)
