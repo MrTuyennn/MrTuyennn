@@ -7,7 +7,7 @@ I'm a Mobile developer from Vietnam, based in Ho Chi Minh city.
 - I had worked at HANET company for 1+ years <a href="https://g-group.vn">G-Group Technology Corporation</a> (<a href="https://www.hanet.com">HANET Ai Camera</a>)
 - I had worked at PKH company for 2+ years  <a href="https://medpro.vn">MedPro - Đặt lịch khám</a>
 - 💬 Ask me about anything related to Mobile application
-- 📫 How to reach me: [Facebook](https://www.facebook.com/junCo0k/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tuyennn/)
 - My packages :
   - [device_info_app](https://pub.dev/packages/device_info_app)
   - [camera_connect](https://pub.dev/packages/camera_connect)
